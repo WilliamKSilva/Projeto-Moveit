@@ -14,9 +14,8 @@ O sistema de troca de ícones ainda não foi acabado porém, já se tem uma vis�
 O login infelizmente só pode ser usado inicializando o localhost em seu computador por enquanto, 
 se tiver interesse utilize o código postado aqui nesse repositório em seu computador e inicialize o app. 
 
-Comandos para inicializar: cd moveit-next 
-                           code . 
-                           yarn dev ou npm run dev 
+Comandos para inicializar: cd moveit-next, code . , yarn dev ou npm run dev
+                            
              
 
 O aplicativo pode ser visto pelo link a seguir: https://moveit-plum-eight.vercel.app   
