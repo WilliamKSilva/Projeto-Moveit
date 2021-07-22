@@ -1,5 +1,5 @@
 # Projeto-Moveit
-Aplicação realizada na Next Level Week da Rocketseat, com algumas outras implementações realizadas por mim.
+Aplicação realizada na Next Level Week da Rocketseat, com algumas outras implementações realizadas por minha conta.
 Toda a aplicação foi realizada usando o Framework React e o typescript.
 
 O aplicativo foi feito seguindo a linha de raciocínio da técnica de pomodoro que consiste 
